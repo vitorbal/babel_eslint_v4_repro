@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-eslint": "^7.2.1",
-    "eslint": "^4.0.0-alpha.0"
+    "babel-eslint": "vitorbal/babel-eslint#eslint-v4",
+    "eslint": "^3.19.0"
   }
 }
